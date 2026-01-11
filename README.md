@@ -85,3 +85,5 @@ streamlit run app.py
 | support_score  | Social support level         |
 | coping_score   | Coping mechanism indicator   |
 | pressure_score | Academic/work pressure level |
+
+⚠️ Feature order must match the trained model input format.
