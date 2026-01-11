@@ -78,3 +78,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+### 📂 CSV Upload Format
+| Column Name    | Description                  |
+| -------------- | ---------------------------- |
+| stress_score   | Encoded stress indicator     |
+| support_score  | Social support level         |
+| coping_score   | Coping mechanism indicator   |
+| pressure_score | Academic/work pressure level |
