@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 **Streamlit App:** _Add your deployed Streamlit URL here_
+🔗 **Streamlit App:**      https://sentinel-ai-bfkq7juefqcjaeebanztic.streamlit.app/
 
 ---
 
@@ -29,6 +29,4 @@
 | ☁️ Cloud Deployment | Fully deployed on Streamlit Cloud |
 
 ---
-
-## 🧠 System Architecture
 
