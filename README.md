@@ -1,5 +1,6 @@
 # 🧠 Sentinel-AI  
 ### AI-Powered Psychological Risk Assessment & Counseling Assistant
+ Sentinel-AI is a production-ready AI system for early psychological risk identification using ethical anomaly detection and professional counseling-style reports.
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
