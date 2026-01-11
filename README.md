@@ -30,3 +30,43 @@
 
 ---
 
+---
+
+## 📊 Machine Learning Overview
+
+| Component | Details |
+|---------|--------|
+| Model | Isolation Forest |
+| Learning Type | Unsupervised Anomaly Detection |
+| Domain | Psychological & Behavioral Risk Analysis |
+| Input | Encoded behavioral indicators |
+| Output | Risk score & risk category |
+| Explainability | Feature contribution logic |
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Technologies
+- Python 3.10+
+- Streamlit
+- Scikit-learn
+- Pandas & NumPy
+- Joblib
+- FPDF (Unicode-enabled with DejaVu fonts)
+
+### Deployment
+- Streamlit Cloud
+- GitHub
+
+---
+
+---
+
+## 🚀 Installation & Local Execution
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/sentinel-ai.git
+cd sentinel-ai
+
