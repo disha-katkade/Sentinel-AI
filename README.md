@@ -60,8 +60,6 @@
 
 ---
 
-
-
 ## 🚀 Installation & Local Execution
 
 ### 1️⃣ Clone the Repository
