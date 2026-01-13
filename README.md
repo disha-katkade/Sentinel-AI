@@ -53,7 +53,7 @@
 | Streamlit    |
 | Scikit-learn |
 | Pandas & NumPy |
-- Joblib
+| Joblib       |
 - FPDF (Unicode-enabled with DejaVu fonts)
 
 ### Deployment
