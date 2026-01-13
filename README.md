@@ -47,7 +47,9 @@
 ## 🛠️ Tech Stack
 
 ### Core Technologies
-- Python 3.10+
+
+| Python 3.10+ |
+|--------------|
 - Streamlit
 - Scikit-learn
 - Pandas & NumPy
