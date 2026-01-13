@@ -50,7 +50,7 @@
 
 | Python 3.10+ |
 |--------------|
-- Streamlit
+| Streamlit    |
 - Scikit-learn
 - Pandas & NumPy
 - Joblib
