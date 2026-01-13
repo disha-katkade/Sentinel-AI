@@ -49,12 +49,7 @@
 ### Core Technologies
 
 | Python 3.10+ | Streamlit | Scikit-learn | Pandas & NumPy | Joblib | FPDF (Unicode-enabled with DejaVu fonts) |
-|:--------------|
-| Streamlit    |
-| Scikit-learn |
-| Pandas & NumPy |
-| Joblib       |
-| FPDF (Unicode-enabled with DejaVu fonts) |
+|:-------------|:----------|:-------------|:---------------|:-------|:-----------------------------------------:|
 
 ### Deployment
 - Streamlit Cloud
