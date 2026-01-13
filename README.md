@@ -51,7 +51,7 @@
 | Python 3.10+ |
 |--------------|
 | Streamlit    |
-- Scikit-learn
+| Scikit-learn |
 - Pandas & NumPy
 - Joblib
 - FPDF (Unicode-enabled with DejaVu fonts)
