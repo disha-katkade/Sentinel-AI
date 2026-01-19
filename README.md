@@ -82,6 +82,6 @@ streamlit run app.py
 
 ⚠️ Feature order must match the trained model input format.
 
-> ### 📌 Note 
+> ### 📌Note 
 > Sentinel-AI is not a medical or diagnostic tool.
 > It is intended to support early awareness and decision-making and must not replace professional psychological evaluation.
