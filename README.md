@@ -14,7 +14,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 **Streamlit App:**      https://sentinel-ai-bfkq7juefqcjaeebanztic.streamlit.app/
+🔗 **Streamlit App:**    https://sentinel-ai-bfkq7juefqcjaeebanztic.streamlit.app/
 
 ---
 
