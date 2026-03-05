@@ -225,3 +225,4 @@ if page == "📊 About System":
 
     <p><i>Disclaimer:</i> This system is intended to assist educators and counselors and does not replace professional psychological assessment.</p>
     """, unsafe_allow_html=True)
+
