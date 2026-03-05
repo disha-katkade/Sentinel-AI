@@ -191,7 +191,7 @@ if page == "🧍 Manual Assessment":
 # -----------------------------
 # Upload File Section
 # -----------------------------
-if page == "📂 Upload File":
+if page == " Upload File":
     st.markdown('<div class="card"><h3>Upload Student CSV Data</h3></div>', unsafe_allow_html=True)
     uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
     if uploaded_file is not None:
@@ -225,4 +225,5 @@ if page == "📊 About System":
 
     <p><i>Disclaimer:</i> This system is intended to assist educators and counselors and does not replace professional psychological assessment.</p>
     """, unsafe_allow_html=True)
+
 
