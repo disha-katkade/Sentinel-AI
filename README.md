@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-> **Sentinel-AI** is an end-to-end AI-powered system designed to assist educators, counselors, and institutions in identifying students who may benefit from early psychological or behavioral support.  
+> **Sentinel-AI** is an end-to-end AI-powered system designed to assist educators, counselors, and institutions in identifying students who may benefit from early psychological or behavioral support.
 > The system combines **machine learning, ethical AI, explainability, and professional reporting** into a real-world deployable application.
 
 ---
